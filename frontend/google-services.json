@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5099514178",
+    "project_id": "nearjob-f3ce1",
+    "storage_bucket": "nearjob-f3ce1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5099514178:android:c9efe295f7c45a0e4c80db",
+        "android_client_info": {
+          "package_name": "com.monsociete.monapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJXDW9jHOcDU-MFkVltNkqg-yRtfTTB_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
